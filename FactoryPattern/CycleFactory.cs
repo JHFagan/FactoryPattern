@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FactoryPattern
 {
-    static class CarFactory
+    static class CycleFactory
     {
 
 

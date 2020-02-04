@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FactoryPattern
 {
-    class Bicycle: ICallable
+    class Bicycle:ICallable
     {
         public void Build()
         {
